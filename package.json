@@ -1,0 +1,22 @@
+{
+  "name": "bhoomi2.0-backend-100",
+  "version": "1.0.0",
+  "description": "fall in love in js",
+  "homepage": "https://github.com/bhoomi018/bhoomi2.0-backend-100#readme",
+  "bugs": {
+    "url": "https://github.com/bhoomi018/bhoomi2.0-backend-100/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhoomi018/bhoomi2.0-backend-100.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "oneShot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "npm run"
+  }
+}
